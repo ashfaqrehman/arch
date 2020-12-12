@@ -7,5 +7,4 @@
 
 ![Screenshot](blobid0-c2448e50-9812-4979-990e-dcd2a9fbd77b.png)
 
-# VPC Flow Logs
-![Screenshot](vpcflowlogs.png)
+
